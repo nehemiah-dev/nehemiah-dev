@@ -1,9 +1,7 @@
 <pre>
-nehemiah@dev
-------------
 
-Name ...................... Nehemiah
-whoami .................... Software engineer
+Name: ..................... Nehemiah
+whoami: ................... Software engineer
 
 OS: ....................... Linux
 Languages: ................ Python, Go
